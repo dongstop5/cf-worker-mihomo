@@ -239,7 +239,7 @@ export function configs(mihomo = '', singbox = '') {
                 options: [
                     {
                         label: '默认(精简版) (与Github同步) ',
-                        value: 'https://raw.githubusercontent.com/Kwisma/cf-worker-mihomo/main/template/singbox_default.yaml',
+                        value: 'https://raw.githubusercontent.com/dongstop5/cf-worker-mihomo/refs/heads/main/template/singbox_default.yaml',
                     },
                     {
                         label: '默认(精简版) (无去广告) (与Github同步) ',
